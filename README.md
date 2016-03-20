@@ -1,6 +1,6 @@
 # alwayswwin.github.io
 always yoonsaekum win
-<!DOCTYPE html>
+
 <html>
 <head>
 <title> Always Yoonsaekum Win </title>
